@@ -1,0 +1,15 @@
+
+/* Class = "UIButton"; configuration.title = "Turkish"; ObjectID = "0O0-65-zPB"; */
+"0O0-65-zPB.configuration.title" = "Turkish";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "0O0-65-zPB"; */
+"0O0-65-zPB.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "TJU-0W-A8D"; */
+"TJU-0W-A8D.text" = "Label";
+
+/* Class = "UIButton"; configuration.title = "English"; ObjectID = "sD6-R3-6el"; */
+"sD6-R3-6el.configuration.title" = "English";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "sD6-R3-6el"; */
+"sD6-R3-6el.normalTitle" = "Button";
